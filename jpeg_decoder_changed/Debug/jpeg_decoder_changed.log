@@ -1,0 +1,5 @@
+﻿  JpegDecoder.cpp
+d:\vs_project\jpeg_decoder_changed\jpeg_decoder_changed\jpegdecoder.cpp(563): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+d:\vs_project\jpeg_decoder_changed\jpeg_decoder_changed\jpegdecoder.cpp(564): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+d:\vs_project\jpeg_decoder_changed\jpeg_decoder_changed\jpegdecoder.cpp(565): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  jpeg_decoder_changed.vcxproj -> D:\vs_project\jpeg_decoder_changed\Debug\jpeg_decoder_changed.exe
